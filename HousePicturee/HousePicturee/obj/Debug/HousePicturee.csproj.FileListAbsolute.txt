@@ -1,0 +1,10 @@
+C:\Users\Аделия\source\repos\HousePicturee\HousePicturee\bin\Debug\HousePicturee.exe.config
+C:\Users\Аделия\source\repos\HousePicturee\HousePicturee\bin\Debug\HousePicturee.exe
+C:\Users\Аделия\source\repos\HousePicturee\HousePicturee\bin\Debug\HousePicturee.pdb
+C:\Users\Аделия\source\repos\HousePicturee\HousePicturee\obj\Debug\HousePicturee.csprojAssemblyReference.cache
+C:\Users\Аделия\source\repos\HousePicturee\HousePicturee\obj\Debug\HousePicturee.Form1.resources
+C:\Users\Аделия\source\repos\HousePicturee\HousePicturee\obj\Debug\HousePicturee.Properties.Resources.resources
+C:\Users\Аделия\source\repos\HousePicturee\HousePicturee\obj\Debug\HousePicturee.csproj.GenerateResource.cache
+C:\Users\Аделия\source\repos\HousePicturee\HousePicturee\obj\Debug\HousePicturee.csproj.CoreCompileInputs.cache
+C:\Users\Аделия\source\repos\HousePicturee\HousePicturee\obj\Debug\HousePicturee.exe
+C:\Users\Аделия\source\repos\HousePicturee\HousePicturee\obj\Debug\HousePicturee.pdb

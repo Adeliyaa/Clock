@@ -1,0 +1,10 @@
+C:\Users\Аделия\source\repos\GraphingLab9\GraphingLab9\bin\Debug\GraphingLab9.exe.config
+C:\Users\Аделия\source\repos\GraphingLab9\GraphingLab9\bin\Debug\GraphingLab9.exe
+C:\Users\Аделия\source\repos\GraphingLab9\GraphingLab9\bin\Debug\GraphingLab9.pdb
+C:\Users\Аделия\source\repos\GraphingLab9\GraphingLab9\obj\Debug\GraphingLab9.csprojAssemblyReference.cache
+C:\Users\Аделия\source\repos\GraphingLab9\GraphingLab9\obj\Debug\GraphingLab9.Form1.resources
+C:\Users\Аделия\source\repos\GraphingLab9\GraphingLab9\obj\Debug\GraphingLab9.Properties.Resources.resources
+C:\Users\Аделия\source\repos\GraphingLab9\GraphingLab9\obj\Debug\GraphingLab9.csproj.GenerateResource.cache
+C:\Users\Аделия\source\repos\GraphingLab9\GraphingLab9\obj\Debug\GraphingLab9.csproj.CoreCompileInputs.cache
+C:\Users\Аделия\source\repos\GraphingLab9\GraphingLab9\obj\Debug\GraphingLab9.exe
+C:\Users\Аделия\source\repos\GraphingLab9\GraphingLab9\obj\Debug\GraphingLab9.pdb
